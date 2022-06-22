@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssef safwat
-- 👀 I’m interested in ...Discord bots, Java script
-- 🌱 I’m currently learning ... Java script
+- 👀 I’m interested in ...Java script, css and HTML
+- 🌱 I’m currently learning ... CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
